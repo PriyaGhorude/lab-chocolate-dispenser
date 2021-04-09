@@ -1,4 +1,4 @@
-//Trial 1 - Add ___ chocolates of ____ color
+   //Trial 1 - Add ___ chocolates of ____ color
 describe("Add chocolates of differenent color - addChocolates", function () {
   var candies = [
     "green",

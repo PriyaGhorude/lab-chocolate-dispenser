@@ -12,7 +12,10 @@ var chocolates = [
 ];
 
 //Progression 1: Add ___ chocolates of ____ color
+function addChocolates()
+{
 
+}
 
 //Progression 2: Remove ___ chocolates from the top the dispenser
 
